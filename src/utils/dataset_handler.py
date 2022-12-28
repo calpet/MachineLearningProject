@@ -1,5 +1,4 @@
 import csv
-import random
 
 def get_dataset(filename):
     # List of bad words to censor
