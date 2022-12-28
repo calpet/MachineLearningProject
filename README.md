@@ -22,7 +22,7 @@ or
 ```bash
 python3 main.py
 ```
-to run it and watch the machine learning algorithm partially do what it's supposed to do!
+to run it and watch the machine learning algorithm almost do what it's supposed to do!
 
 ## Contributing
 
