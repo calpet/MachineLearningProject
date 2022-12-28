@@ -1,6 +1,6 @@
 # MachineLearningProject
 
-This project was made for a research I did regarding AI in school. It's a prototype of an automoderator for a forum which filters out swearing words in any given forum post and censors it with '*'. 
+This project was made for a research I did regarding AI in school. It's a prototype of an automoderator for a forum which filters out swearing words in any given forum post and censors it with '*'. Currently however, I've just hardcoded a Reddit post inside `main.py` and added some swearing words from the datasets at random places. 
 
 ## Installation
 
