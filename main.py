@@ -1,6 +1,6 @@
-from src.utils.censorship_handler import censor
 from sklearn.linear_model import LogisticRegression
 
+from src.utils.censorship_handler import censor
 from src.utils.dataset_handler import get_dataset
 from src.models.predictions_model import create_predictions_model
 from src.models.training_model import train_model
