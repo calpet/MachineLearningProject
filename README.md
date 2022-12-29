@@ -20,7 +20,7 @@ $ python main.py
 ```
 or
 ```bash
-python3 main.py
+$ python3 main.py
 ```
 to run it and watch the machine learning algorithm almost do what it's supposed to do!
 
