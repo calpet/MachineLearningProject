@@ -4,7 +4,7 @@ This project was made for a research I did regarding AI in school. It's a protot
 
 ## Installation
 
-First off, download the [Bad words dataset from Kaggle](https://www.kaggle.com/datasets/nicapotato/bad-bad-words?resource=download) and put it inside the data folder. (the reason why it's not there already is because I feel awkward knowing I've put a dataset containing a thousand swearing words on my public repository)
+First off, download the [Bad words dataset from Kaggle](https://www.kaggle.com/datasets/nicapotato/bad-bad-words?resource=download) and put it inside the data folder. (the reason why it's not there already should be pretty obvious)
 
 Then, navigate to the root directory of the project & use the following command in your terminal:
 ```bash
