@@ -17,7 +17,7 @@ forum_post = '''
     '''
 
 def main():
-    # Get dataset & labelset:
+    # Get necessary datasets and labels which we can use to train the AI:
     texts = get_dataset('./data/bad-words.csv')
     lRows = get_dataset('./data/labels.csv')
     labels = []
